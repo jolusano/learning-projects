@@ -80,7 +80,6 @@ http://127.0.0.1:8000/bible/
 ## Notes
 
 - The OpenAI API key **must not be committed** to GitHub. Make sure `.env` is included in `.gitignore`.
-- Currently uses **SQLite** for simplicity; suitable for local development.
 - Designed as a learning/demo project to practice Django + OpenAI API integration.
 
 ---
